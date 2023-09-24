@@ -15,7 +15,7 @@ owner:
   # facebook: Null
   github: zhanglitga
    # linkedin: NULL
-  Google Scholar: https://scholar.google.cz/citations?user=RmQ0vFwAAAAJ&hl=zh-CN&oi=sra
+  Scholar: https://scholar.google.cz/citations?user=RmQ0vFwAAAAJ&hl=zh-CN&oi=sra
   # instagram: Null
   # lastfm:
   # tumblr:
@@ -77,7 +77,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: Li Zhang
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]

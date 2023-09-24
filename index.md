@@ -6,12 +6,10 @@ layout: page
 
 <img src="https://zhanglitga.github.io/zhangli.JPG" class="floatpic" width="360" height="480">
 
-*Li Zhang*, male, born in 1991, holds a Ph.D. degree and is a senior engineer at the [Institute of Geophysical and Geochemical Exploration of the Chinese Academy of Geological Sciences(IGGE, CAGS)](http://www.igge.cgs.gov.cn/).
+**Li Zhang**, male, born in 1991, holds a Ph.D. degree and is a senior engineer at the [Institute of Geophysical and Geochemical Exploration of the Chinese Academy of Geological Sciences(IGGE, CAGS)](http://www.igge.cgs.gov.cn/).
 He is specializes in researching the macro-distribution patterns, enrichment mechanisms and biogeochemical cycling of soil elements.
 He used national land geochemical survey data and various data analysis methods explored the state of soil quality, element distribution, driving factors of soil elements and the ecological risks and health risks of heavy metal in a typical high geological background areas of Southwest China to serve land resource management, soil pollution prevention and control, and protection and utilization of cultivated land.
 Li Zhang has a wealth of scientific research achievements. He has undertaken 5 research projects; published 15 peer-reviewed papers, obtained 3 utility model patents, and published 1 geochemical atlas.
-Here is [my CV](https://zhanglitga.guthub.io/file/CV-ZHANGLI.pdf).
-
 
 ## Academic Background
 
