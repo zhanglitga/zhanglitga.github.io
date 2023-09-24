@@ -4,34 +4,45 @@ layout: page
 
 # About Me
 
-<img src="https://zhanglitga.github.io/zhangli.jpg" class="floatpic" width="360" height="480">
+<img src="https://github.com/zhanglitga/zhanglitga.github.io/zhangli.JPG" class="floatpic" width="360" height="480">
 
 Here is **Li Zhang (张利)**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+*Li Zhang*, male, born in 1991, holds a Ph.D. degree and is a senior engineer at the [Institute of Geophysical and Geochemical Exploration of the Chinese Academy of Geological Sciences(IGGE, CAGS)](http://www.igge.cgs.gov.cn/).
+He is specializes in researching the macro-distribution patterns, enrichment mechanisms and biogeochemical cycling of soil elements.
+He used national land geochemical survey data and various data analysis methods explored the state of soil quality, element distribution, driving factors of soil elements and the ecological risks and health risks of heavy metal in a typical high geological background areas of Southwest China to serve land resource management, soil pollution prevention and control, and protection and utilization of cultivated land.
+Li Zhang has a wealth of scientific research achievements. He has undertaken 5 research projects; published 15 peer-reviewed papers, obtained 3 utility model patents, and published 1 geochemical atlas.
+Here is [[my CV](https://zhanglitga.guthub.io/file/CV-ZHANGLI.pdf)].
 
-<br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I will do Postdoc research soon at Karlsruhe Institute of Technology.
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
+- **Nov 2022 - Present:** Senior Engineer at Institute of Geophysical and Geochemical Exploration, Chinese Academy of Geological Science
+- **Aug 2020 - Nov 2022:** Engineer at Institute of Geophysical and Geochemical Exploration, Chinese Academy of Geological Science
 - **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+
+
+
+## Education Background
+- **Sep 2016 - Jul 2020:** China University of Geosciences, Beijing (PhD)
+- **Sep 2018 - Sep 2019:** Queen's University Belfast (Visiting PhD)
+- **Sep 2014 - Jul 2016:** China University of Geosciences, Beijing (M.Sc)
+- **Sep 2010 - Jun 2014:** North China University of Science and Technology(B.En)
 
 <br>
+
 
 ---
 
 ## Research Interests
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- **CURRENT RESEARCH INTERESTS** \
+*Environmental Geochemistry*: in particular, focuses on (1) soil environmental geochemical mapping and geochemical baseline; (2) the geochemical characterization of environmental matrices, contaminated and not, as soil and sediment at a regional and local scale, to evaluate natural and anthropogenic pollution; (3) minor nutrient elements and toxic elements biogeochemical cycling in rock-soil-crop-human systems and their risk evaluation. \
+*Exploratory data analysis*: in particular, focuses on compositional data analysis and multivariate analyses to examine the soil and sediment geochemistry data for a range of key elements (e.g., heavy metals/metalloids, Se, REEs and C).  \
+- **FORMER RESEARCH INTERESTS** \
+*Petrology and Mineralogy*: in particular, focuses on ophiolites in orogenic belts, to study their petrological and mineralogical characteristics, partial melting characteristics, and tectonic environment by electron microscope, electron probe micro-analysis, and laser ablation inductively coupled plasma mass spectrometry.
 
 <br>
 
@@ -39,10 +50,9 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Sep 2023：**Our works [DefenderIoT](https://fzuiot.site/) has been officially publicized by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+- **Sep 2023**：Li has been appointed as the Early Career Editorial Board member of [*Mineral Exploration*](http://www.kckc.org.cn/ch/index.aspx)!
+- **Jun 2023**：Happy to be awarded the CSC Scholarship.
+- **July 2023**：Li has been appointed as the Early Career Editorial Board member of [*Geological Bulletin of China*](http://dzhtb.cgs.cn/gbc/ch/index.aspx)! 
+- **Apr 2023**：Li has been appointed as the Early Career Editorial Board member of [*Ecology and Rural Environment*](http://www.ere.ac.cn/CN/1673-4831/home.shtml)!
+## Contact 
+- If you are interested in my works, please feel free to [contact me] (zhanglitga@163.com).
