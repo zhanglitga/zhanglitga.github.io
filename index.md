@@ -53,7 +53,9 @@ compositional data analysis and multivariate analyses to examine the soil and se
 - **Jun 2023**：Happy to be awarded the CSC Scholarship.
 - **July 2023**：Li has been appointed as the Early Career Editorial Board member of [*Geological Bulletin of China*](http://dzhtb.cgs.cn/gbc/ch/index.aspx)! 
 - **Apr 2023**：Li has been appointed as the Early Career Editorial Board member of [*Ecology and Rural Environment*](http://www.ere.ac.cn/CN/1673-4831/home.shtml)!
+
 <br>
+
 ---
 
 ## Contact 
