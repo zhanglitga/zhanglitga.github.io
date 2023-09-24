@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/zhanglitga/zhanglitga.github.io/zhangli.JPG" class="floatpic" width="360" height="480">
+<img src="https://zhanglitga.github.io/zhangli.JPG" class="floatpic" width="360" height="480">
 
 Here is **Li Zhang (张利)**.
 
@@ -21,7 +21,6 @@ Here is [[my CV](https://zhanglitga.guthub.io/file/CV-ZHANGLI.pdf)].
 
 - **Nov 2022 - Present:** Senior Engineer at Institute of Geophysical and Geochemical Exploration, Chinese Academy of Geological Science
 - **Aug 2020 - Nov 2022:** Engineer at Institute of Geophysical and Geochemical Exploration, Chinese Academy of Geological Science
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
 
 
 
@@ -39,10 +38,14 @@ Here is [[my CV](https://zhanglitga.guthub.io/file/CV-ZHANGLI.pdf)].
 ## Research Interests
 
 - **CURRENT RESEARCH INTERESTS** \
-*Environmental Geochemistry*: in particular, focuses on (1) soil environmental geochemical mapping and geochemical baseline; (2) the geochemical characterization of environmental matrices, contaminated and not, as soil and sediment at a regional and local scale, to evaluate natural and anthropogenic pollution; (3) minor nutrient elements and toxic elements biogeochemical cycling in rock-soil-crop-human systems and their risk evaluation. \
-*Exploratory data analysis*: in particular, focuses on compositional data analysis and multivariate analyses to examine the soil and sediment geochemistry data for a range of key elements (e.g., heavy metals/metalloids, Se, REEs and C).  \
+**Environmental Geochemistry**: in particular, focuses on \
+(1) soil environmental geochemical mapping and geochemical baseline; \
+(2) the geochemical characterization of environmental matrices, contaminated and not, as soil and sediment at a regional and local scale, to evaluate natural and anthropogenic pollution; \
+(3) minor nutrient elements and toxic elements biogeochemical cycling in rock-soil-crop-human systems and their risk evaluation. \
+**Exploratory data analysis**: in particular, focuses on\
+compositional data analysis and multivariate analyses to examine the soil and sediment geochemistry data for a range of key elements (e.g., heavy metals/metalloids, Se, REEs and C). 
 - **FORMER RESEARCH INTERESTS** \
-*Petrology and Mineralogy*: in particular, focuses on ophiolites in orogenic belts, to study their petrological and mineralogical characteristics, partial melting characteristics, and tectonic environment by electron microscope, electron probe micro-analysis, and laser ablation inductively coupled plasma mass spectrometry.
+**Petrology and Mineralogy**: in particular, focuses on ophiolites in orogenic belts, to study their petrological and mineralogical characteristics, partial melting characteristics, and tectonic environment by electron microscope, electron probe micro-analysis, and laser ablation inductively coupled plasma mass spectrometry.
 
 <br>
 
@@ -55,4 +58,4 @@ Here is [[my CV](https://zhanglitga.guthub.io/file/CV-ZHANGLI.pdf)].
 - **July 2023**：Li has been appointed as the Early Career Editorial Board member of [*Geological Bulletin of China*](http://dzhtb.cgs.cn/gbc/ch/index.aspx)! 
 - **Apr 2023**：Li has been appointed as the Early Career Editorial Board member of [*Ecology and Rural Environment*](http://www.ere.ac.cn/CN/1673-4831/home.shtml)!
 ## Contact 
-- If you are interested in my works, please feel free to [contact me] (zhanglitga@163.com).
+- If you are interested in my works, please feel free to contact me (zhanglitga@163.com).
