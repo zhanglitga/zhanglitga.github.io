@@ -11,10 +11,10 @@ owner:
  # bio:
   email: zhanglitga@163.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-   # twitter: Null
+  twitter: Null
   # facebook: Null
   github: zhanglitga
-   # linkedin: NULL
+  linkedin: NULL
   Scholar: https://scholar.google.cz/citations?user=RmQ0vFwAAAAJ&hl=zh-CN&oi=sra
   # instagram: Null
   # lastfm:
@@ -43,10 +43,12 @@ links:
     url: /awards/
   - title: Fundings
     url: /fundings/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  - # title: Hobbies
+    # url: /hobbies/
+  - # title: Blogs
+    # url: /blogs/
+    title: Events
+    url: /events/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
