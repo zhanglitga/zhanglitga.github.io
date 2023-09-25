@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /events/index.html
+permalink: /contact/index.html
 title: Contact
 ---
 

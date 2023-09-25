@@ -59,4 +59,4 @@ compositional data analysis and multivariate analyses to examine the soil and se
 ---
 
 ## Contact 
-- If you are interested in my works, please feel free to contact me (zhanglitga@163.com).
+- If you are interested in my works, please feel free to contact me.
