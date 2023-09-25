@@ -8,7 +8,7 @@ title: Publications
 #### **First author or Corresponding author**
 
 
-- Liting Zhang, Zhijun Wang, Yuanchen Liu, Xi Wang, Xiaoyang Xie, **Li Zhang** *. *[Distribution Pattern and Influencing Factors of Soil Selenium in Northern Hebei Province, China](https://link.springer.com/article/10.1134/S0016702923070066)*. Geochemistry International, 2023, 61, 750–767. [pdf]()
+- Liting Zhang, Zhijun Wang, Yuanchen Liu, Xi Wang, Xiaoyang Xie, **Li Zhang***. *[Distribution Pattern and Influencing Factors of Soil Selenium in Northern Hebei Province, China](https://link.springer.com/article/10.1134/S0016702923070066)*. Geochemistry International, 2023, 61, 750–767. [pdf]()
 
 
 - **Li Zhang***, Zheng Yang, Qiaolin Wang, Fei Guo, Yuntao Song, Wei Han, Min Peng, Fei Liu, Kuo Li, Hangxin Cheng*. *[Temporal and spatial accumulation of potentially toxic elements (PTEs) in stream sediments from a large lead–zinc mine concentration area of Baoshan, Southwest China](https://link.springer.com/article/10.1007/s11368-022-03230-y)* .
