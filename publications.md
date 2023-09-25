@@ -28,8 +28,7 @@ title: Publications
  Journal of Geochemical Exploration, 2020, 217: 106557. [pdf]()
 
 
-- __Li Zhang__, Jennifer McKinley, Mark Cooper, Wei Han, Fei Liu, Yuntao Song, Min Peng, Xiujin Liu, Wei Yang, Hangxin Cheng*. *[Transfer processes of potential toxic elements (PTE) between rock-soil systems and soil risk evaluation in the Baoshan area, Yunnan Province, Southwest China](https://www.sciencedirect.com/science/article/abs/pii/S0883292720302043)** 
- (*corresponding author). Applied Geochemistry, 2020, 121: 104712. [pdf]()
+- __Li Zhang__, Jennifer McKinley, Mark Cooper, Wei Han, Fei Liu, Yuntao Song, Min Peng, Xiujin Liu, Wei Yang, Hangxin Cheng*. *[Transfer processes of potential toxic elements (PTE) between rock-soil systems and soil risk evaluation in the Baoshan area, Yunnan Province, Southwest China](https://www.sciencedirect.com/science/article/abs/pii/S0883292720302043)*. Applied Geochemistry, 2020, 121: 104712. [pdf]()
 
 
 - __Li Zhang__, Jingsui Yang*, Fei Liu, Dongyang Lian, Jian Huang, Hui Zhao, Yan Yang. *[The South Gongzhucuo peridotite massif: A typical MOR type peridotite in the western Yarlung Zangbo suture zone](http://www.ysxb.ac.cn/article/id/aps_20161207)*.
