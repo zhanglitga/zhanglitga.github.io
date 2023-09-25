@@ -8,31 +8,31 @@ title: Publications
 #### **First author or Corresponding author**
 
 
-- Liting Zhang, Zhijun Wang, Yuanchen Liu, Xi Wang, Xiaoyang Xie, **Li Zhang***. *[Distribution Pattern and Influencing Factors of Soil Selenium in Northern Hebei Province, China](https://link.springer.com/article/10.1134/S0016702923070066)*. Geochemistry International, 2023, 61, 750–767. [pdf]()
+- Liting Zhang, Zhijun Wang, Yuanchen Liu, Xi Wang, Xiaoyang Xie, __Li Zhang__*. *[Distribution Pattern and Influencing Factors of Soil Selenium in Northern Hebei Province, China](https://link.springer.com/article/10.1134/S0016702923070066)*. Geochemistry International, 2023, 61, 750–767. [pdf]()
 
 
-- **Li Zhang***, Zheng Yang, Qiaolin Wang, Fei Guo, Yuntao Song, Wei Han, Min Peng, Fei Liu, Kuo Li, Hangxin Cheng*. *[Temporal and spatial accumulation of potentially toxic elements (PTEs) in stream sediments from a large lead–zinc mine concentration area of Baoshan, Southwest China](https://link.springer.com/article/10.1007/s11368-022-03230-y)* .
+- __Li Zhang__*, Zheng Yang, Qiaolin Wang, Fei Guo, Yuntao Song, Wei Han, Min Peng, Fei Liu, Kuo Li, Hangxin Cheng *. *[Temporal and spatial accumulation of potentially toxic elements (PTEs) in stream sediments from a large lead–zinc mine concentration area of Baoshan, Southwest China](https://link.springer.com/article/10.1007/s11368-022-03230-y)* .
  Journal of Soils and Sediments, 2022, 22, 2290–2308. [pdf](https://zhanglitga.github.io/mypaper/zhangli2022JSSS.pdf)
 
 
 
-- **Li Zhang***, Zheng Yang, Min Peng, Xiaomeng Cheng. *[Health Risks of Potentially Toxic Elements (PTEs) in Soil of Baoshan Area, Southwest China.](https://www.mdpi.com/2076-3417/12/3/1693)* 
+- __Li Zhang__*, Zheng Yang, Min Peng, Xiaomeng Cheng. *[Health Risks of Potentially Toxic Elements (PTEs) in Soil of Baoshan Area, Southwest China.](https://www.mdpi.com/2076-3417/12/3/1693)* 
  Applied Sciences Basle, 2022, 12, 1693. [pdf]()
 
 
-- **Li Zhang***, Wei Han, Min Peng, Fei Liu, Yuntao Song, Xiujin Liu, Qiaolin Wang, Kuo Li, Dongjie Zhao, Wei Yang, Hangxin Cheng*. *[Geochemical characteristics of rare earth elements (REEs) in soils developed on different parent materials in the Baoshan area, Yunnan Province, Southwest China](https://pubs.geoscienceworld.org/geea/article/21/2/geochem2019-082/594802/Geochemical-characteristics-of-rare-earth-elements#:~:text=The%20geochemistry%20of%20rare%20earth%20elements%20%28REEs%29%20was,regional%20scale%2C%20Baoshan%20area%2C%20Yunnan%20Province%2C%20SW%20China)*.
+- __Li Zhang__*, Wei Han, Min Peng, Fei Liu, Yuntao Song, Xiujin Liu, Qiaolin Wang, Kuo Li, Dongjie Zhao, Wei Yang, Hangxin Cheng *. *[Geochemical characteristics of rare earth elements (REEs) in soils developed on different parent materials in the Baoshan area, Yunnan Province, Southwest China](https://pubs.geoscienceworld.org/geea/article/21/2/geochem2019-082/594802/Geochemical-characteristics-of-rare-earth-elements#:~:text=The%20geochemistry%20of%20rare%20earth%20elements%20%28REEs%29%20was,regional%20scale%2C%20Baoshan%20area%2C%20Yunnan%20Province%2C%20SW%20China)*.
  Geochemistry: Exploration, Environment, Analysis, 2021, 21: 1. [pdf]()
 
 
-- **Li Zhang**, Jennifer McKinley, Mark Cooper, Min Peng, Qiaolin Wang, Yuntao Song, Hangxin Cheng*. *[A regional soil and river sediment geochemical study in Baoshan area, Yunnan province, southwest China](https://www.sciencedirect.com/science/article/pii/S0375674219306636)* .
+- Li Zhang, Jennifer McKinley, Mark Cooper, Min Peng, Qiaolin Wang, Yuntao Song, Hangxin Cheng *. *[A regional soil and river sediment geochemical study in Baoshan area, Yunnan province, southwest China](https://www.sciencedirect.com/science/article/pii/S0375674219306636)* .
  Journal of Geochemical Exploration, 2020, 217: 106557. [pdf]()
 
 
-- **Li Zhang**, Jennifer McKinley, Mark Cooper, Wei Han, Fei Liu, Yuntao Song, Min Peng, Xiujin Liu, Wei Yang, Hangxin Cheng*. *[Transfer processes of potential toxic elements (PTE) between rock-soil systems and soil risk evaluation in the Baoshan area, Yunnan Province, Southwest China](https://www.sciencedirect.com/science/article/abs/pii/S0883292720302043)** 
+- __Li Zhang__, Jennifer McKinley, Mark Cooper, Wei Han, Fei Liu, Yuntao Song, Min Peng, Xiujin Liu, Wei Yang, Hangxin Cheng*. *[Transfer processes of potential toxic elements (PTE) between rock-soil systems and soil risk evaluation in the Baoshan area, Yunnan Province, Southwest China](https://www.sciencedirect.com/science/article/abs/pii/S0883292720302043)** 
  (*corresponding author). Applied Geochemistry, 2020, 121: 104712. [pdf]()
 
 
-- **Li Zhang**, Jingsui Yang*, Fei Liu, Dongyang Lian, Jian Huang, Hui Zhao, Yan Yang. *[The South Gongzhucuo peridotite massif: A typical MOR type peridotite in the western Yarlung Zangbo suture zone](http://www.ysxb.ac.cn/article/id/aps_20161207)*.
+- __Li Zhang__, Jingsui Yang*, Fei Liu, Dongyang Lian, Jian Huang, Hui Zhao, Yan Yang. *[The South Gongzhucuo peridotite massif: A typical MOR type peridotite in the western Yarlung Zangbo suture zone](http://www.ysxb.ac.cn/article/id/aps_20161207)*.
  Acta Petrologica Sinica, 2016, (12): 3649-3672. (in Chinese with English abstract) [pdf]()
 
 
