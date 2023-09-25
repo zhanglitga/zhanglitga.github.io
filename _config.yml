@@ -43,12 +43,15 @@ links:
     url: /awards/
   - title: Fundings
     url: /fundings/
-  - # title: Hobbies
+  - title: Events
+    url: /events/
+  - title: Contact
+    url: /contact/
+    # title: Hobbies
     # url: /hobbies/
   - # title: Blogs
     # url: /blogs/
-  - title: Events
-    url: /events/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
