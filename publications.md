@@ -82,7 +82,7 @@ title: Publications
 - **Li Zhang**, Jingsui Yang*, Dongyang Lian, Fei Liu, Hui Zhao, Jian Huang, Yan Yang. _[Gongzhucuo Massif: An Ever Slightly Depleted Peridotite in the Western YarlungZangbo Ophiolitic Belt of Southern Tibet](https://onlinelibrary.wiley.com/doi/10.1111/1755-6724.12308_70)_. Acta Geologica Sinica (English Edition). 2015, V89(s2), 117-119.  [pdf](https://zhanglitga.github.io/mypaper/zhangli2015.pdf)
 
 
-- Fei Liu*, Jingsui Yang, Yildirim Dilek, Dongyang Lian, Zhiqin Xu, **Li Zhang**, Yanxue Xie, Songyong Chen, Jian Huang.  _[Tectonic Evolution of the Dongbo Ophiolite in Western Yarlung Zangbo Suture Zone, Xizang (Tibet)](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-6724.12986)_. Acta Geologica Sinica (English Edition), 2016, 90 (s1), 235-235.  [pdf](https://zhanglitga.github.io/mypaper/liufei2015ysxb.pdf)
+- Fei Liu*, Jingsui Yang, Yildirim Dilek, Dongyang Lian, Zhiqin Xu, **Li Zhang**, Yanxue Xie, Songyong Chen, Jian Huang.  _[Tectonic Evolution of the Dongbo Ophiolite in Western Yarlung Zangbo Suture Zone, Xizang (Tibet)](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-6724.12986)_. Acta Geologica Sinica (English Edition), 2016, 90 (s1), 235-235.  [pdf](https://zhanglitga.github.io/mypaper/liufei2016.pdf)
 
 
 - Fei Liu, Jingsui Yang*, Dongyang Lian, Hui Zhao, Lan Zhang, Xiaolu Niu, Guangying Feng, **Li Zhang**, Jian Huang.  _[Geogenesis and Characteristics of the Western Part of the Yarlung Zangbo Ophiolites, Tibet](https://onlinelibrary.wiley.com/doi/10.1111/1755-6724.12308_34)_. Acta Geologica Sinica (English Edition), 2015, 89(s2): 52-55.  [pdf](https://zhanglitga.github.io/mypaper/liufei2015.pdf)
