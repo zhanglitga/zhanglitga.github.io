@@ -39,7 +39,7 @@ He specializes in researching the macro-distribution patterns, enrichment mechan
 **Exploratory data analysis**: in particular, focuses on\
 compositional data analysis and multivariate analyses to examine the soil and sediment geochemistry data for a range of key elements (e.g., heavy metals/metalloids, Se, REEs and C). 
 - **FORMER RESEARCH INTERESTS** \
-**Petrology and Mineralogy**: in particular, focuses on ophiolites in orogenic belts, to study their petrological and mineralogical characteristics, partial melting characteristics, and tectonic environment by electron microscope, electron probe micro-analysis, and laser ablation inductively coupled plasma mass spectrometry.
+**Petrology and Mineralogy**: in particular, focuses on ophiolites in orogenic belts, to study their petrological and mineralogical characteristics, partial melting characteristics, and tectonic backgrounds by electron microscope, electron probe micro-analysis, and laser ablation inductively coupled plasma mass spectrometry.
 
 
 <br>
