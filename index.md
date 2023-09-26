@@ -55,8 +55,7 @@ compositional data analysis and multivariate analyses to examine the soil and se
 - [Environmental Research](https://www.sciencedirect.com/journal/environmental-research)
 - [Science of The Total Environment](https://www.sciencedirect.com/journal/science-of-the-total-environment)
 - [Journal of Agricultural Resources and Environment](http://www.aed.org.cn/nyzyyhjxb/ch/index.aspx) (农业资源与环境学报)
-- [Journal of Agro-Environment Science](http://www.aes.org.cn/nyhjkxxb/ch/index.aspx) (农业环境科学学报)
-- 
+- [Journal of Agro-Environment Science](http://www.aes.org.cn/nyhjkxxb/ch/index.aspx) (农业环境科学学报) 
 
 
 
