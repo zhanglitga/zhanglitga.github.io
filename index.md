@@ -6,14 +6,12 @@ layout: page
 
 <img src="https://zhanglitga.github.io/zhangli.JPG" class="floatpic" width="360" height="480">
 
-**Li Zhang**, male, born in 1991, holds a Ph.D. degree and is a senior engineer at the [Institute of Geophysical and Geochemical Exploration of the Chinese Academy of Geological Sciences(IGGE, CAGS)](http://www.igge.cgs.gov.cn/).
-He is specializes in researching the macro-distribution patterns, enrichment mechanisms and biogeochemical cycling of soil elements.
-He used national land geochemical survey data and various data analysis methods explored the state of soil quality, element distribution, driving factors of soil elements and the ecological risks and health risks of heavy metal in a typical high geological background areas of Southwest China to serve land resource management, soil pollution prevention and control, and protection and utilization of cultivated land.
-Li Zhang has a wealth of scientific research achievements. He has undertaken 5 research projects; published 15 peer-reviewed papers, obtained 3 utility model patents, and published 1 geochemical atlas.
+**Li Zhang**, male, born in 1991, holds a Ph.D. degree and currently serves as a senior engineer at the [Institute of Geophysical and Geochemical Exploration of the Chinese Academy of Geological Sciences(IGGE, CAGS)](http://www.igge.cgs.gov.cn/).
+He specializes in researching the macro-distribution patterns, enrichment mechanisms, and biogeochemical cycling of soil elements. Utilizing national land geochemical survey data and employing various data analysis methods, he has explored the state of soil quality, element distribution, driving factors of soil elements, as well as the ecological and health risks associated with heavy metals in typical high geological background areas of Southwest China. Li Zhang's contributions serve the fields of land resource management, soil pollution prevention and control.
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> ** I will do Postdoc research soon at Karlsruhe Institute of Technology.
+**<font color='red'>[Highlight]</font> ** I will be commencing my Postdoctoral research at the Karlsruhe Institute of Technology soon.
 
 - **Nov 2022 - Present:** Senior Engineer at Institute of Geophysical and Geochemical Exploration, Chinese Academy of Geological Science
 - **Aug 2020 - Nov 2022:** Engineer at Institute of Geophysical and Geochemical Exploration, Chinese Academy of Geological Science
@@ -43,11 +41,31 @@ compositional data analysis and multivariate analyses to examine the soil and se
 - **FORMER RESEARCH INTERESTS** \
 **Petrology and Mineralogy**: in particular, focuses on ophiolites in orogenic belts, to study their petrological and mineralogical characteristics, partial melting characteristics, and tectonic environment by electron microscope, electron probe micro-analysis, and laser ablation inductively coupled plasma mass spectrometry.
 
+
+<br>
+
+---
+## Servise
+### Editorial board or early career editorial Board 
+- Early Career Editorial Board member of [*Mineral Exploration*](http://www.kckc.org.cn/ch/index.aspx) (矿产勘查)
+- Early Career Editorial Board member of [*Geological Bulletin of China*](http://dzhtb.cgs.cn/gbc/ch/index.aspx)（地质通报)
+- Early Career Editorial Board member of [*Ecology and Rural Environment*](http://www.ere.ac.cn/CN/1673-4831/home.shtml) （生态与农村环境学报）
+
+### Reviewer
+- [Environmental Research](https://www.sciencedirect.com/journal/environmental-research)
+- [Science of The Total Environment](https://www.sciencedirect.com/journal/science-of-the-total-environment)
+- [Journal of Agricultural Resources and Environment](http://www.aed.org.cn/nyzyyhjxb/ch/index.aspx) (农业资源与环境学报)
+- [Journal of Agro-Environment Science](http://www.aes.org.cn/nyhjkxxb/ch/index.aspx) (农业环境科学学报)
+- 
+
+
+
+
 <br>
 
 ---
 
-## News and Updates
+## News
 
 - **Sep 2023**：Li has been appointed as the Early Career Editorial Board member of [*Mineral Exploration*](http://www.kckc.org.cn/ch/index.aspx)!
 - **Jun 2023**：Happy to be awarded the CSC Scholarship.
@@ -59,4 +77,4 @@ compositional data analysis and multivariate analyses to examine the soil and se
 ---
 
 ## Contact 
-- If you are interested in my works, please feel free to contact me.
+If you are interested in my works, please feel free to [contact me](/contact/index.html).

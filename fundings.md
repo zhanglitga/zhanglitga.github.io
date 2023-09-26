@@ -18,7 +18,7 @@ title: Fundings
 
 ### Participant 
 
-- **Major participant** of the Land Geochemical Survey Project: DD20190522 (China Geological Survey) “Geochemical survey of land quality in Wumeng mountain area”; 2019–2021; 49,200,000 ¥ 
+- **Major participant** of the Geology Survey Project: DD20190522 (China Geological Survey) “Geochemical survey of land quality in Wumeng mountain area”; 2019–2021; 49,200,000 ¥ 
 - **Major participant** of the Surplus Funds for Scientific Research Projects Funded by the Central Government Budget: JY201906 (Institute of Geophysical & Geochemical Exploration, Chinese Academy of Geological Sciences) “Biogeochemical cycling of forest mercury in Qinling Mountains, China”; 2019;320,000 ¥ 
 - **Participate as PhD student** of Geology Survey Project: DD20160313 (China Geological Survey) “Geochemical survey of land quality with 1:250,000 scale in heavy metal high geological background areas in southwest China”; 2016–2018; 94,850,000 ¥ 
 - **Participate as PhD student** of Geology Survey Project: DD20160133-03 (China Geological Survey) “Risk assessment and results integration of heavy metals in soils from different parent materials”; 2016–2018; 2,800,000 ¥ 

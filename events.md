@@ -6,7 +6,7 @@ title: Events
 
 # Events
 
-**This page is under constructing.**\
+**This page is currently under construction.**\
 **Events coming soon...**
 
 
