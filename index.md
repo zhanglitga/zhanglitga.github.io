@@ -19,8 +19,8 @@ He specializes in researching the macro-distribution patterns, enrichment mechan
 
 
 ## Education Background
-- **Sep 2016 - Jul 2020:** China University of Geosciences, Beijing (PhD)
-- **Sep 2018 - Sep 2019:** Queen's University Belfast (Visiting PhD)
+- **Sep 2016 - Jul 2020:** China University of Geosciences, Beijing (Ph.D.)
+- **Sep 2018 - Sep 2019:** Queen's University Belfast (Visiting Ph.D.)
 - **Sep 2014 - Jul 2016:** China University of Geosciences, Beijing (M.Sc)
 - **Sep 2010 - Jun 2014:** North China University of Science and Technology(B.En)
 
