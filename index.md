@@ -46,7 +46,7 @@ compositional data analysis and multivariate analyses to examine the soil and se
 
 ---
 ## Servise
-### Editorial board or early career editorial Board 
+### Editorial Board or Early Career Editorial Board 
 - Early Career Editorial Board member of [*Mineral Exploration*](http://www.kckc.org.cn/ch/index.aspx) (矿产勘查)
 - Early Career Editorial Board member of [*Geological Bulletin of China*](http://dzhtb.cgs.cn/gbc/ch/index.aspx)（地质通报)
 - Early Career Editorial Board member of [*Ecology and Rural Environment*](http://www.ere.ac.cn/CN/1673-4831/home.shtml) （生态与农村环境学报）
