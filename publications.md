@@ -77,7 +77,7 @@ title: Publications
 
 
 
-## Special Issues in international scientific journals
+## Special issues in international scientific journals
 
 - **Li Zhang**, Jingsui Yang*, Dongyang Lian, Fei Liu, Hui Zhao, Jian Huang, Yan Yang. _[Gongzhucuo Massif: An Ever Slightly Depleted Peridotite in the Western YarlungZangbo Ophiolitic Belt of Southern Tibet](https://onlinelibrary.wiley.com/doi/10.1111/1755-6724.12308_70)_. Acta Geologica Sinica (English Edition). 2015, V89(s2), 117-119.  [pdf](https://zhanglitga.github.io/mypaper/zhangli2015.pdf)
 

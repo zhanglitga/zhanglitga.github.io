@@ -7,8 +7,7 @@ title: Contact
 # Contact Information
 
 ## Email
-zhanglitga [at] 163 [dot] com \
-zhangli01 [at] mail [dot] cgs [dot] gov [dot] cn
+zhanglitga [at] 163 [dot] com 
 
 ## Office
 Key Laboratory of Geochemical Cycling of Carbon and Mercury in the Earth's Critical Zone\
