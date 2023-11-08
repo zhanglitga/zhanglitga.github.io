@@ -67,7 +67,7 @@ compositional data analysis and multivariate analyses to examine the soil and se
 
 ## News
 
-- **Nov 2023**: Early Career Editorial Board member of [*Crop Health*](https://link.springer.com/journal/44297?utm_medium=affiliate&utm_source=baidu&utm_content=banner&utm_term=null&utm_campaign=CONR_JRNLS_DEC1_AP_CNPL_00340_HPAUT)!
+- **Nov 2023**: Li has been appointed as the Early Career Editorial Board member of [*Crop Health*](https://link.springer.com/journal/44297?utm_medium=affiliate&utm_source=baidu&utm_content=banner&utm_term=null&utm_campaign=CONR_JRNLS_DEC1_AP_CNPL_00340_HPAUT)!
 - **Sep 2023**：Li has been appointed as the Early Career Editorial Board member of [*Mineral Exploration*](http://www.kckc.org.cn/ch/index.aspx)!
 - **Jun 2023**：Happy to be awarded the CSC Scholarship.
 - **Jul 2023**：Li has been appointed as the Early Career Editorial Board member of [*Geological Bulletin of China*](http://dzhtb.cgs.cn/gbc/ch/index.aspx)! 
