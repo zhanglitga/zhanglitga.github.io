@@ -48,9 +48,9 @@ compositional data analysis and multivariate analyses to examine the soil and se
 ## Servise
 ### Editorial Board or Early Career Editorial Board 
 - Early Career Editorial Board member of [*Crop Health*](https://link.springer.com/journal/44297?utm_medium=affiliate&utm_source=baidu&utm_content=banner&utm_term=null&utm_campaign=CONR_JRNLS_DEC1_AP_CNPL_00340_HPAUT) (Nov 2023-Oct 2025)
-- Early Career Editorial Board member of [*Mineral Exploration*](http://www.kckc.org.cn/ch/index.aspx)(矿产勘查) (Sep 2023-Aug 2025)
-- Early Career Editorial Board member of [*Geological Bulletin of China*](http://dzhtb.cgs.cn/gbc/ch/index.aspx)地质通报) (Jul 2023-Jun 2026)
-- Early Career Editorial Board member of [*Ecology and Rural Environment*](http://www.ere.ac.cn/CN/1673-4831/home.shtml)(生态与农村环境学报） (Apr 2023-Mar 2025)
+- Early Career Editorial Board member of [*Mineral Exploration*](http://www.kckc.org.cn/ch/index.aspx) (矿产勘查) (Sep 2023-Aug 2025)
+- Early Career Editorial Board member of [*Geological Bulletin of China*](http://dzhtb.cgs.cn/gbc/ch/index.aspx)（地质通报) (Jul 2023-Jun 2026)
+- Early Career Editorial Board member of [*Ecology and Rural Environment*](http://www.ere.ac.cn/CN/1673-4831/home.shtml) (生态与农村环境学报） (Apr 2023-Mar 2025)
 
 ### Reviewer
 - [Environmental Research](https://www.sciencedirect.com/journal/environmental-research)
