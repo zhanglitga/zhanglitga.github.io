@@ -6,15 +6,16 @@ layout: page
 
 <img src="https://zhanglitga.github.io/zhangli.JPG" class="floatpic" width="360" height="480">
 
-**Li Zhang**, male, born in 1991, holds a Ph.D. degree and currently serves as a senior engineer at the [Institute of Geophysical and Geochemical Exploration of the Chinese Academy of Geological Sciences(IGGE, CAGS)](http://www.igge.cgs.gov.cn/).
+**Li Zhang**, male, born in 1991, holds a Ph.D. degree and currently serves as a senior engineer at the [Institute of Geophysical and Geochemical Exploration of the Chinese Academy of Geological Sciences(IGGE, CAGS)](http://www.igge.cgs.gov.cn/). He is now  commencing postdoctoral research at the [Karlsruhe Institute of Technology] (https://www.kit.edu/index.php) supported by China Scholarship Council.
 He specializes in researching the macro-distribution patterns, enrichment mechanisms, and biogeochemical cycling of soil elements. Utilizing national land geochemical survey data and employing various data analysis methods, he has explored the state of soil quality, element distribution, driving factors of soil elements, as well as the ecological and health risks associated with heavy metals in typical high geological background areas of Southwest China. Li Zhang's contributions serve the fields of land resource management, soil pollution prevention and control.
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> ** I will be commencing my Postdoctoral research at the Karlsruhe Institute of Technology soon.
+<!-- **<font color='red'>[Highlight]</font> ** I will be commencing my Postdoctoral research at the Karlsruhe Institute of Technology soon. -->
 
-- **Nov 2022 - Present:** Senior Engineer at Institute of Geophysical and Geochemical Exploration, Chinese Academy of Geological Science
-- **Aug 2020 - Nov 2022:** Engineer at Institute of Geophysical and Geochemical Exploration, Chinese Academy of Geological Science
+- **Jan 2024 - Present:** Postdoc research fellow at Institute of Geography and Geoecology, Karlsruhe Institute of Technology （IFGG, KIT）
+- **Nov 2022 - Dec 2023:** Senior engineer at Institute of Geophysical and Geochemical Exploration, Chinese Academy of Geological Science (IGGE, CAGS)
+- **Aug 2020 - Nov 2022:** Engineer at Institute of Geophysical and Geochemical Exploration, Chinese Academy of Geological Science (IGGE, CAGS)
 
 
 
@@ -48,10 +49,10 @@ compositional data analysis and multivariate analyses to examine the soil and se
 ## Servise
 ### Editorial Board or Early Career Editorial Board 
 - Early Career Editorial Board member of [*Crop Health*](https://link.springer.com/journal/44297?utm_medium=affiliate&utm_source=baidu&utm_content=banner&utm_term=null&utm_campaign=CONR_JRNLS_DEC1_AP_CNPL_00340_HPAUT) (Nov 2023-Oct 2025)
-- Early Career Editorial Board member of [*Mineral Exploration*](http://www.kckc.org.cn/ch/index.aspx) (矿产勘查) (Sep 2023-Aug 2025)
 - Early Career Editorial Board member of [*Geological Bulletin of China*](http://dzhtb.cgs.cn/gbc/ch/index.aspx)（地质通报) (Jul 2023-Jun 2026)
 - Early Career Editorial Board member of [*Ecology and Rural Environment*](http://www.ere.ac.cn/CN/1673-4831/home.shtml) (生态与农村环境学报） (Apr 2023-Mar 2025)
-
+- Early Career Editorial Board member of [*Mineral Exploration*](http://www.kckc.org.cn/ch/index.aspx) (矿产勘查) (Sep 2023-Aug 2025)
+- Early Career Editorial Board member of [*Mineral Resources and Geology*](https://kcyd.cbpt.cnki.net/WKD3/WebPublication/index.aspx?mid=kcyd) (矿产与地质) (Jan 2024-Dec 2026)
 ### Reviewer
 - [Environmental Research](https://www.sciencedirect.com/journal/environmental-research)
 - [Science of The Total Environment](https://www.sciencedirect.com/journal/science-of-the-total-environment)
@@ -67,6 +68,7 @@ compositional data analysis and multivariate analyses to examine the soil and se
 
 ## News
 
+- **Dec 2023**: Li has been appointed as the Early Career Editorial Board member of  [*Mineral Resources and Geology*](https://kcyd.cbpt.cnki.net/WKD3/WebPublication/index.aspx?mid=kcyd)!
 - **Nov 2023**: Li has been appointed as the Early Career Editorial Board member of [*Crop Health*](https://link.springer.com/journal/44297?utm_medium=affiliate&utm_source=baidu&utm_content=banner&utm_term=null&utm_campaign=CONR_JRNLS_DEC1_AP_CNPL_00340_HPAUT)!
 - **Sep 2023**：Li has been appointed as the Early Career Editorial Board member of [*Mineral Exploration*](http://www.kckc.org.cn/ch/index.aspx)!
 - **Jun 2023**：Happy to be awarded the CSC Scholarship.
