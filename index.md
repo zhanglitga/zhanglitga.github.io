@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://zhanglitga.github.io/zhangli.JPG" class="floatpic" width="360" height="480">
 
-**Li Zhang**, male, born in 1991, holds a Ph.D. degree and currently serves as a senior engineer at the [Institute of Geophysical and Geochemical Exploration of the Chinese Academy of Geological Sciences(IGGE, CAGS)](http://www.igge.cgs.gov.cn/). He is now  commencing postdoctoral research at the [Karlsruhe Institute of Technology] (https://www.kit.edu/index.php) supported by China Scholarship Council.
+**Li Zhang**, male, born in 1991, holds a Ph.D. degree and currently serves as a senior engineer at the [Institute of Geophysical and Geochemical Exploration of the Chinese Academy of Geological Sciences(IGGE, CAGS)](http://www.igge.cgs.gov.cn/). He is now  commencing postdoctoral research at the [Karlsruhe Institute of Technology](https://www.kit.edu/index.php) supported by China Scholarship Council.
 He specializes in researching the macro-distribution patterns, enrichment mechanisms, and biogeochemical cycling of soil elements. Utilizing national land geochemical survey data and employing various data analysis methods, he has explored the state of soil quality, element distribution, driving factors of soil elements, as well as the ecological and health risks associated with heavy metals in typical high geological background areas of Southwest China. Li Zhang's contributions serve the fields of land resource management, soil pollution prevention and control.
 
 ## Academic Background
@@ -53,6 +53,7 @@ compositional data analysis and multivariate analyses to examine the soil and se
 - Early Career Editorial Board member of [*Ecology and Rural Environment*](http://www.ere.ac.cn/CN/1673-4831/home.shtml) (生态与农村环境学报） (Apr 2023-Mar 2025)
 - Early Career Editorial Board member of [*Mineral Exploration*](http://www.kckc.org.cn/ch/index.aspx) (矿产勘查) (Sep 2023-Aug 2025)
 - Early Career Editorial Board member of [*Mineral Resources and Geology*](https://kcyd.cbpt.cnki.net/WKD3/WebPublication/index.aspx?mid=kcyd) (矿产与地质) (Jan 2024-Dec 2026)
+
 ### Reviewer
 - [Environmental Research](https://www.sciencedirect.com/journal/environmental-research)
 - [Science of The Total Environment](https://www.sciencedirect.com/journal/science-of-the-total-environment)
