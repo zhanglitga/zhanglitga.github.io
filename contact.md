@@ -7,8 +7,9 @@ title: Contact
 # Contact Information
 
 ## Email
-zhanglitga [at] 163 [dot] com 
+lzscience [at] foxmail [dot] com 
 
+<!--
 ## Office
 Key Laboratory of Geochemical Cycling of Carbon and Mercury in the Earth's Critical Zone\
 Institute of Geophysical & Geochemical Exploration, Chinese Academy of Geological Sciences\
