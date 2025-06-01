@@ -41,7 +41,7 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Fundings
+  #- title: Fundings
     url: /fundings/
   - title: Events
     url: /events/
