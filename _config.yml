@@ -36,13 +36,13 @@ links:
   - title: About Me
     url: /
   #- title: Resume
-    url: /file/CV-ZHANGLI.pdf
+  #  url: /file/CV-ZHANGLI.pdf
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
   #- title: Fundings
-    url: /fundings/
+  #  url: /fundings/
   - title: Events
     url: /events/
   - title: Contact
